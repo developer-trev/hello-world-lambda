@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda/index.js",
+  "scripts": {
+    "zip": "cd lambda && zip -r ../lambda.zip ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-trev/hello-world-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer-trev/hello-world-lambda/issues"
+  },
+  "homepage": "https://github.com/developer-trev/hello-world-lambda#readme"
+}
